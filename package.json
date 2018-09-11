@@ -88,7 +88,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kantlove/vscode-todo-parser.git"
+    "url": "https://github.com/mt40/vscode-todo-parser.git"
   },
   "icon": "images/icon.png",
   "galleryBanner": {
